@@ -1,0 +1,32 @@
+2024-12-11 09:46:46,615 - TradingRule_abs_skew_combined_e32ea1 - ERROR - No 'AssetVol' specified for asset 'KAA1 Comdty'.
+2024-12-11 09:46:46,616 - TradingRule_abs_skew_combined_e32ea1 - ERROR - Error applying position sizing to asset 'KAA1 Comdty': No 'AssetVol' specified for asset 'KAA1 Comdty'.
+2024-12-11 09:46:46,616 - TradingRule_abs_skew_combined_e32ea1 - ERROR - Error applying trading rule to asset 'KAA1 Comdty': No 'AssetVol' specified for asset 'KAA1 Comdty'.
+2024-12-11 09:46:46,617 - TradingRule_abs_skew_combined_e32ea1 - ERROR - Error backtesting asset 'KAA1 Comdty': No 'AssetVol' specified for asset 'KAA1 Comdty'.
+2024-12-11 09:47:22,490 - TradingRule_abs_skew_combined_e32ea1 - ERROR - No 'AssetVol' specified for asset 'KAA1 Comdty'.
+2024-12-11 09:47:22,492 - TradingRule_abs_skew_combined_e32ea1 - ERROR - Error applying position sizing to asset 'KAA1 Comdty': No 'AssetVol' specified for asset 'KAA1 Comdty'.
+2024-12-11 09:47:22,492 - TradingRule_abs_skew_combined_e32ea1 - ERROR - Error applying trading rule to asset 'KAA1 Comdty': No 'AssetVol' specified for asset 'KAA1 Comdty'.
+2024-12-11 09:47:22,493 - TradingRule_abs_skew_combined_e32ea1 - ERROR - Error backtesting asset 'KAA1 Comdty': No 'AssetVol' specified for asset 'KAA1 Comdty'.
+2024-12-11 09:47:26,698 - TradingRule_abs_skew_combined_e32ea1 - ERROR - No 'AssetVol' specified for asset 'KAA1 Comdty'.
+2024-12-11 09:47:26,698 - TradingRule_abs_skew_combined_e32ea1 - ERROR - Error applying position sizing to asset 'KAA1 Comdty': No 'AssetVol' specified for asset 'KAA1 Comdty'.
+2024-12-11 09:47:26,699 - TradingRule_abs_skew_combined_e32ea1 - ERROR - Error applying trading rule to asset 'KAA1 Comdty': No 'AssetVol' specified for asset 'KAA1 Comdty'.
+2024-12-11 09:47:26,699 - TradingRule_abs_skew_combined_e32ea1 - ERROR - Error backtesting asset 'KAA1 Comdty': No 'AssetVol' specified for asset 'KAA1 Comdty'.
+2024-12-12 09:45:59,099 - TradingRule_abs_skew_combined_e32ea1 - ERROR - No 'AssetVol' specified for asset 'KAA1 Comdty'.
+2024-12-12 09:45:59,101 - TradingRule_abs_skew_combined_e32ea1 - ERROR - Error applying position sizing to asset 'KAA1 Comdty': No 'AssetVol' specified for asset 'KAA1 Comdty'.
+2024-12-12 09:45:59,102 - TradingRule_abs_skew_combined_e32ea1 - ERROR - Error applying trading rule to asset 'KAA1 Comdty': No 'AssetVol' specified for asset 'KAA1 Comdty'.
+2024-12-12 09:45:59,102 - TradingRule_abs_skew_combined_e32ea1 - ERROR - Error backtesting asset 'KAA1 Comdty': No 'AssetVol' specified for asset 'KAA1 Comdty'.
+2024-12-12 09:58:51,718 - TradingRule_abs_skew_combined_e32ea1 - ERROR - No 'AssetVol' specified for asset 'KAA1 Comdty'.
+2024-12-12 09:58:51,719 - TradingRule_abs_skew_combined_e32ea1 - ERROR - Error applying position sizing to asset 'KAA1 Comdty': No 'AssetVol' specified for asset 'KAA1 Comdty'.
+2024-12-12 09:58:51,719 - TradingRule_abs_skew_combined_e32ea1 - ERROR - Error applying trading rule to asset 'KAA1 Comdty': No 'AssetVol' specified for asset 'KAA1 Comdty'.
+2024-12-12 09:58:51,719 - TradingRule_abs_skew_combined_e32ea1 - ERROR - Error backtesting asset 'KAA1 Comdty': No 'AssetVol' specified for asset 'KAA1 Comdty'.
+2024-12-12 09:59:28,996 - TradingRule_abs_skew_combined_e32ea1 - ERROR - No 'AssetVol' specified for asset 'KAA1 Comdty'.
+2024-12-12 09:59:28,997 - TradingRule_abs_skew_combined_e32ea1 - ERROR - Error applying position sizing to asset 'KAA1 Comdty': No 'AssetVol' specified for asset 'KAA1 Comdty'.
+2024-12-12 09:59:28,997 - TradingRule_abs_skew_combined_e32ea1 - ERROR - Error applying trading rule to asset 'KAA1 Comdty': No 'AssetVol' specified for asset 'KAA1 Comdty'.
+2024-12-12 09:59:28,997 - TradingRule_abs_skew_combined_e32ea1 - ERROR - Error backtesting asset 'KAA1 Comdty': No 'AssetVol' specified for asset 'KAA1 Comdty'.
+2024-12-12 09:59:35,231 - TradingRule_abs_skew_combined_e32ea1 - ERROR - No 'AssetVol' specified for asset 'KAA1 Comdty'.
+2024-12-12 09:59:35,232 - TradingRule_abs_skew_combined_e32ea1 - ERROR - Error applying position sizing to asset 'KAA1 Comdty': No 'AssetVol' specified for asset 'KAA1 Comdty'.
+2024-12-12 09:59:35,232 - TradingRule_abs_skew_combined_e32ea1 - ERROR - Error applying trading rule to asset 'KAA1 Comdty': No 'AssetVol' specified for asset 'KAA1 Comdty'.
+2024-12-12 09:59:35,233 - TradingRule_abs_skew_combined_e32ea1 - ERROR - Error backtesting asset 'KAA1 Comdty': No 'AssetVol' specified for asset 'KAA1 Comdty'.
+2024-12-12 09:59:41,251 - TradingRule_abs_skew_combined_e32ea1 - ERROR - No 'AssetVol' specified for asset 'KAA1 Comdty'.
+2024-12-12 09:59:41,252 - TradingRule_abs_skew_combined_e32ea1 - ERROR - Error applying position sizing to asset 'KAA1 Comdty': No 'AssetVol' specified for asset 'KAA1 Comdty'.
+2024-12-12 09:59:41,252 - TradingRule_abs_skew_combined_e32ea1 - ERROR - Error applying trading rule to asset 'KAA1 Comdty': No 'AssetVol' specified for asset 'KAA1 Comdty'.
+2024-12-12 09:59:41,252 - TradingRule_abs_skew_combined_e32ea1 - ERROR - Error backtesting asset 'KAA1 Comdty': No 'AssetVol' specified for asset 'KAA1 Comdty'.
